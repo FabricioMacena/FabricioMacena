@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo Fabrício Macena e sou um estudante de tecnologia em diferentes verdentes, tanto no **Desenvolvimento de Software**, quanto em **ciência e Análise de Dados**.
+Me chamo Fabrício Macena e sou um estudante de tecnologia em diferentes verdentes, tanto no **Desenvolvimento de Software**, quanto em **Ciência e Análise de Dados**.
 
 - 🔭 Desenvolvendo atualmente uma aplicação de automação de vagas de emprego com Python e React, você poderá encontra-la clicando aqui 👉 [Find Jobs](https://github.com/FabricioMacena/find-jobs)
 - 📚 Estudando Django, React e Spring Boot com Java.
