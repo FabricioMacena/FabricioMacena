@@ -2,8 +2,8 @@
 
 Me chamo Fabrício Macena e sou um estudante de tecnologia em diferentes verdentes, tanto no **Desenvolvimento de Software**, quanto em **Ciência e Análise de Dados**.
 
-- 🔭 Desenvolvendo atualmente uma aplicação de automação de vagas de emprego com Python e React, você poderá encontra-la clicando aqui 👉 [Find Jobs](https://github.com/FabricioMacena/find-jobs)
-- 📚 Estudando Django, React e Spring Boot com Java.
+- 🔭 Desenvolvendo atualmente meu portfolio com React, você poderá encontra-lo clicando aqui 👉 [Meu Portfolio](https://github.com/FabricioMacena/portfolio)
+- 📚 Estudando Django, Angular e Spring Boot com Java.
 
 Além do Github, você pode me encontrar em:
 
