@@ -2,8 +2,8 @@
 
 Me chamo Fabrício Macena e sou um estudante de tecnologia em diferentes verdentes, tanto no **Desenvolvimento de Software**, quanto em **Ciência e Análise de Dados**.
 
-- 🔭 Desenvolvendo atualmente meu portfolio com React, você poderá encontra-lo clicando aqui 👉 [Meu Portfolio](https://github.com/FabricioMacena/portfolio)
 - 📚 Estudando Django, Angular e Spring Boot com Java.
+- 🔭 Desenvolvendo atualmente uma aplicação com utilização de Spring Boot e Angular 👉 [crud-spring-angular](https://github.com/FabricioMacena/crud-spring-angular).
 
 Além do Github, você pode me encontrar em:
 
